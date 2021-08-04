@@ -89,7 +89,7 @@ $ npm run dev:server
  <br />
  <sub><b>Hebert Santos</b></sub></a> <a href="https://www.linkedin.com/in/hebertryansantos/" title="Perfil">🚀</a>
 
-Projeto criado como material de estudos da semana Omnistack 📚
+Projeto criado como material de estudos do bootcamp GoStack 📚
 Feito com ❤️ por Hebert Santos Com o intuito de consolidar meus conhecimentos 👋🏽 Entre em contato!
 #### Para conferir mais sobre meu trabalho e ver mais projetos acesse meu [Portfolio](https://hebertryann.github.io/portfolio/)
 

@@ -7,11 +7,26 @@
 <h3 align="center">
     <a href="https://hebertryann.github.io/gobarberr/">Visite a pagina GoBarber</a>
 </h3>
-<p align="center"Plataforma que tem como proposito facilitar e auxiliar barbeiros em sua prestação de serviço, junto a versão mobile onde os usuarios podem agendar a data e hora de sua escolha alem de escolher o profissional, tornando essa aplicação bem completa e robusta</p>
+<p align="center">
+  Plataforma que tem como proposito facilitar e auxiliar barbeiros em sua prestação de serviço, junto a versão mobile onde os usuarios podem agendar a data e hora de sua escolha alem de escolher o profissional, tornando essa aplicação bem completa e robusta
+</p>
 
 <h4 align="center"> 
 🚀 GoBarber Concluido ✔
 </h4>
+
+<h1 align="center">
+  Login (Com erro de validação)
+  <img alt="Login GoBarber" src="./Frontend/src/assets/gobarberlogin.gif"/>
+</h1>
+<h1 align="center">
+  Cadastro
+  <img alt="Cadastro GoBarber" src="./Frontend/src/assets/gobarbersignup.gif"/>
+</h1>
+<h1 align="center">
+  Login/Dashboard
+  <img alt="Login GoBarber" src="./Frontend/src/assets/gobarbersignin.gif"/>
+</h1>
 
 
 <p align="center">

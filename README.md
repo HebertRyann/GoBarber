@@ -4,9 +4,9 @@
   <img alt="GoBarber" src="./Frontend/src/assets/logo.svg" />
 </h1>
 
-<h1 align="center">
+<h3 align="center">
     <a href="https://hebertryann.github.io/gobarberr/">Visite a pagina GoBarber</a>
-</h1>
+</h3>
 <p align="center"Plataforma que tem como proposito facilitar e auxiliar barbeiros em sua prestação de serviço, junto a versão mobile onde os usuarios podem agendar a data e hora de sua escolha alem de escolher o profissional, tornando essa aplicação bem completa e robusta</p>
 
 <h4 align="center"> 

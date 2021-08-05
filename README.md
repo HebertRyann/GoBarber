@@ -21,11 +21,11 @@
 </h1>
 <h1 align="center">
   Cadastro
-  <img alt="Cadastro GoBarber" src="./Frontend/src/assets/gobarbersignup.gif"/>
+  <img alt="Cadastro GoBarber" src="./Frontend/src/assets/gobarbersingup.gif"/>
 </h1>
 <h1 align="center">
   Login/Dashboard
-  <img alt="Login GoBarber" src="./Frontend/src/assets/gobarbersignin.gif"/>
+  <img alt="Login GoBarber" src="./Frontend/src/assets/gobarbersingin.gif"/>
 </h1>
 
 
